@@ -1,9 +1,8 @@
-# flutter-module
-
 ## 모듈별 적용 방법
 - 광고 : [admob_module](https://github.com/flutter-module/admob-module/blob/main/admob_module/README.md)
+<br/>
 
-## Module 최초로 가져올 때 (1회)
+## 최초로 적용할 때 (1회)
 
 1. ssh 키 생성  
    터미널에서 아래 명령어 실행
