@@ -3,7 +3,16 @@
 <br/>
   
 ## 모듈별 적용 방법
+```yml
+# pubspec.yaml에서 아래와 같이 작성
+***_module:
+    git:
+      url: git@github.com:flutter-module/***-module.git  # 레파지토리명
+      path: ***_module  # 폴더명
+      ref: v0.1.0       # 태그명
+```
 - 광고 : [admob_module](https://github.com/flutter-module/admob-module/blob/main/admob_module/README.md)
+- 온보딩 :
 <br/>
 
 ## 최초로 적용할 때 (1회)
@@ -37,6 +46,7 @@
    ```
    Hi 유저이름! You've successfully authenticated, but GitHub does not provide shell access.
    ```
+<br/>
 
 ## 모듈 만들기
 1. 패키지 생성  
