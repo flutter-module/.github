@@ -42,4 +42,4 @@
 1. 패키지 생성  
    <img width="533" alt="스크린샷 2024-12-20 오후 11 07 35" src="https://github.com/user-attachments/assets/36692611-11c9-4b75-b28c-5b9d24d449df" />
 
-2. 
+2. 버전명으로 태그 생성
